@@ -4,9 +4,9 @@
 
 ## :pencil2: Descrição do Projeto
   
-- Elaboração da validação do formulário HTML
+- Elaboração da validação do formulário HTML.
 - Identificação de CPF, CEP, e-mails...
-- Criação de ecpressões regulares eficientes
+- Criação de expressões regulares eficientes.
 
 ## :hammer: Funcionalidade do projeto
 
